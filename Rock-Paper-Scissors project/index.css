@@ -1,0 +1,22 @@
+.card{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+.remember-styles , h5{
+    font-weight:bold;
+    
+}
+h5{
+    display: inline-block;
+}
+button{
+    background-color: beige;
+    border-radius:25px;
+    height:40px;
+    width:120px;
+    font-weight:bold;
+    font-size:18px;
+
+}
